@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $(".customer-logos").slick({
-    slidesToShow: 2.3,
+    slidesToShow: 1.3,
     slidesToScroll: 1,
     infinite: false,
     arrows: false,
